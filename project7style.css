@@ -1,1 +1,24 @@
+#main-headline {
+  text-align: center;
+  color: blue;
+  
+}
 
+h2{
+  text-align: center;
+}
+
+.person-description{
+  color: purple;
+}
+
+.place-description{
+  color: olive;
+  font-family: Verdana;
+}
+
+.top-favorite{
+  font-weight: bold;
+  color:red;
+  
+ 
